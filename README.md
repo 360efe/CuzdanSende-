@@ -118,7 +118,7 @@
         <input type="text" id="description" placeholder="Açıklama (örn: Oyuncak)" />
         <input type="number" id="amount" placeholder="Ne kadar harcadın? (TL)" />
         <button onclick="addExpense()">💸 Harcama Ekle</button>
-        <h2>Toplam Harcama: <span id="total">2.00</span> TL</h2>
+        <h2>Toplam Harcama: <span id="total">0.00</span> TL</h2>
         <div id="history"></div>
     </div>
 
