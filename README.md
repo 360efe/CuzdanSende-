@@ -117,7 +117,7 @@
         <h1>CüzdanSende</h1>
         <input type="text" id="description" placeholder="Açıklama (örn: Oyuncak)" />
         <input type="number" id="amount" placeholder="Ne kadar harcadın? (TL)" />
-        <button onclick="addExpense()"</button>
+        <button onclick="addExpense()"💸 Harcama Ekle </button>
         <h2>Toplam Harcama: <span id="total">12.233.15</span> TL</h2>
         <div id="history"></div>
     </div>
